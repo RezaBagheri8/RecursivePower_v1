@@ -1,0 +1,15 @@
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursivePowerMethod\bin\Debug\net6.0\RecursivePowerMethod.exe
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursivePowerMethod\bin\Debug\net6.0\RecursivePowerMethod.deps.json
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursivePowerMethod\bin\Debug\net6.0\RecursivePowerMethod.runtimeconfig.json
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursivePowerMethod\bin\Debug\net6.0\RecursivePowerMethod.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursivePowerMethod\bin\Debug\net6.0\RecursivePowerMethod.pdb
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursivePowerMethod\obj\Debug\net6.0\RecursivePowerMethod.csproj.AssemblyReference.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursivePowerMethod\obj\Debug\net6.0\RecursivePowerMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursivePowerMethod\obj\Debug\net6.0\RecursivePowerMethod.AssemblyInfoInputs.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursivePowerMethod\obj\Debug\net6.0\RecursivePowerMethod.AssemblyInfo.cs
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursivePowerMethod\obj\Debug\net6.0\RecursivePowerMethod.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursivePowerMethod\obj\Debug\net6.0\RecursivePowerMethod.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursivePowerMethod\obj\Debug\net6.0\refint\RecursivePowerMethod.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursivePowerMethod\obj\Debug\net6.0\RecursivePowerMethod.pdb
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursivePowerMethod\obj\Debug\net6.0\RecursivePowerMethod.genruntimeconfig.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursivePowerMethod\obj\Debug\net6.0\ref\RecursivePowerMethod.dll
